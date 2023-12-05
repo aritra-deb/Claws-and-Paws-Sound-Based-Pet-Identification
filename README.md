@@ -2,11 +2,7 @@
 
 ## Overview
 
-In this project, we focus on classifying environmental sounds as either cat or dog vocalizations, utilizing the ESC-50 dataset. Our approach involves two distinct methods: Yamnet, a pre-trained deep learning model optimized for sound analysis, and a custom Sequential model developed from scratch. The primary motivation for this work lies in addressing real-world applications that require precise sound classification.
-
-## Motivation
-
-The practical implications of our project extend to various domains. For pet owners, our models offer remote monitoring of their animals and can alert them to unusual behavior. Animal shelters and veterinarians can streamline operations by automating animal identification based on vocalizations. Furthermore, our technology plays a crucial role in urban planning and noise pollution control, facilitating the monitoring and management of noise pollution in residential areas.
+In this project, we focus on classifying environmental sounds as either cat or dog vocalizations, utilizing the ESC-50 dataset. Our approach involves two distinct methods: Yamnet, a pre-trained deep learning model optimized for sound analysis, and a custom Sequential models (ANN ,RNN , CNN) developed from scratch. The primary motivation for this work lies in addressing real-world applications that require precise sound classification.
 
 ## Challenges
 
@@ -85,6 +81,5 @@ After training and evaluating multiple machine learning models for sound classif
 
 ## Conclusion
 
-Our project not only contributes to the field of sound analysis but also offers practical solutions for pet owners, animal shelters, veterinarians, and noise pollution control. We invite contributions, feedback, and collaboration to further enhance the capabilities of Claws and Paws Sound-Based Pet Identification.
-
+Our project not only contributes to the field of sound analysis but also offers practical solutions for pet owners, animal shelters, veterinarians.
 
